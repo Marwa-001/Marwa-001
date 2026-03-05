@@ -9,7 +9,7 @@ I'm a **3rd-year Software Engineering student** passionate about building intell
 ## 💻 What I Do
 
 - 🌐 Build scalable web applications using the **MERN stack**
-- 🤖 Develop ML models and integrate them into production applications
+- 🤖 Develop ML models and integrate them into web applications
 - 🎯 Create AI-powered solutions that enhance user experiences
 - 📊 Work with data science pipelines and analytics
 
@@ -17,17 +17,11 @@ I'm a **3rd-year Software Engineering student** passionate about building intell
 
 **Frontend:** React.js, HTML, CSS, JavaScript  
 **Backend:** Node.js, Express.js  
-**Databases:** MongoDB, PostgreSQL, Supabase  
-**ML/AI:** Python, TensorFlow, Scikit-learn, Pandas, NumPy  
+**Databases:** MongoDB 
+**ML/AI:** Python, Scikit-learn, Pandas, NumPy  
 **Tools & Others:** Git, RESTful APIs, AI Integration
 
 ## 🌟 Featured Projects
-
-### 🎯 AI Resume Screener
-An intelligent hiring platform that automates candidate screening using AI. Companies can upload resumes and receive instant insights on candidate-job compatibility.
-- **Tech:** React, Node.js, PostgreSQL, Supabase, AI Integration
-- **Key Features:** AI-powered resume analysis, job-fit scoring, automated candidate ranking
-- **Impact:** Streamlines recruitment by eliminating manual resume screening
 
 ### 🛍️ MobiWear - Custom E-Commerce Platform
 A full-stack online store for mobile accessories with advanced features and custom payment solutions.
