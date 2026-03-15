@@ -2,7 +2,7 @@
 
 # Hi there, I'm Marwa! 👋
 
-### Full Stack Developer | MERN Stack Specialist | CS Student
+### Full Stack Developer | MERN Stack Specialist | SE Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwa-amjad/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marvaa.002@gmail.com)
