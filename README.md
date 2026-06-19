@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a **3rd-year BS Software Engineering student** at the University of Agriculture Faisalabad, passionate about building real-world web applications that actually solve problems. I specialize in the **MERN stack** and love creating full-stack solutions — from sleek frontends to robust backends.
+I'm a **final year BS Software Engineering student** at the University of Agriculture Faisalabad, passionate about building real-world web applications that actually solve problems. I specialize in the **MERN stack** and love creating full-stack solutions — from sleek frontends to robust backends.
 
 - 🔭 Currently building: Full-stack web apps with MERN
 - 🌱 Exploring: AI integration in web apps & beginner ML concepts
